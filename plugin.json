@@ -1,0 +1,21 @@
+{
+  "id": "abyss-plugin-python-lab",
+  "name": "Python 游乐场",
+  "version": "0.1.0",
+  "minHost": 1,
+  "minApp": "0.1.0",
+  "category": "terminal",
+  "summary": "Chaquopy 引擎：numpy / opencv 脚本执行 + HTML 实时渲染预览，复杂自动化逻辑的后端。",
+  "icon": "🐍",
+  "permissions": [
+    "INTERNET"
+  ],
+  "entry": "com.abyss.tools.plugin.pythonlab.PythonLabPlugin",
+  "repo": "Ultra-Guru/abyss-plugin-python-lab",
+  "patchChannel": "https://raw.githubusercontent.com/Ultra-Guru/abyss-plugin-python-lab/main/patches/index.json",
+  "roadmap": [
+    "v0.2 脚本编辑器与执行沙箱",
+    "v0.3 pip 离线包管理",
+    "v0.4 HTML 渲染预览"
+  ]
+}
