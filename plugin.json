@@ -11,8 +11,8 @@
     "INTERNET"
   ],
   "entry": "com.abyss.tools.plugin.pythonlab.PythonLabPlugin",
-  "repo": "Ultra-Guru/abyss-plugin-python-lab",
-  "patchChannel": "https://raw.githubusercontent.com/Ultra-Guru/abyss-plugin-python-lab/main/patches/index.json",
+  "repo": "abyss-tool/abyss-plugin-python-lab",
+  "patchChannel": "https://raw.githubusercontent.com/abyss-tool/abyss-plugin-python-lab/main/patches/index.json",
   "roadmap": [
     "v0.2 脚本编辑器与执行沙箱",
     "v0.3 pip 离线包管理",
